@@ -1,0 +1,7 @@
+﻿.env
+backend/.env
+*.db
+__pycache__/
+venv/
+PRD.md
+claude.md
